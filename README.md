@@ -39,5 +39,6 @@ Poor sleep = poor study.
 
 Sleep allows new connections in brain to happen and strengthens previous ones.
 
+
 _________________________________
-**Shakhriyor Kh | 1/17/2021**
+*Shakhriyor Kh | 1/17/2021*
